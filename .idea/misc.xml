@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/San The Developer/Android Arindo/WaserbaNura/app/src/main/res/drawable/edit_text_style.xml" value="0.18703703703703703" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/WaserbaNura/app/src/main/res/drawable/edit_text_style_dua.xml" value="0.18703703703703703" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/WaserbaNura/app/src/main/res/layout/activity_belanja.xml" value="0.21" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/WaserbaNura/app/src/main/res/layout/activity_keranjang.xml" value="0.14166666666666666" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/WaserbaNura/app/src/main/res/layout/activity_konfirmasi_pembayaran.xml" value="0.14166666666666666" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/WaserbaNura/app/src/main/res/layout/activity_laporan.xml" value="0.14166666666666666" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/WaserbaNura/app/src/main/res/layout/activity_laporan_rinci.xml" value="0.14166666666666666" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/WaserbaNura/app/src/main/res/layout/activity_order.xml" value="0.14166666666666666" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/WaserbaNura/app/src/main/res/layout/activity_pembayaran_berhasil.xml" value="0.14166666666666666" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/WaserbaNura/app/src/main/res/layout/activity_status.xml" value="0.14166666666666666" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/WaserbaNura/app/src/main/res/layout/activity_tentang.xml" value="0.14166666666666666" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/WaserbaNura/app/src/main/res/layout/fragment_beranda.xml" value="0.14444444444444443" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/WaserbaNura/app/src/main/res/layout/toolbar_main.xml" value="0.14444444444444443" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8 (5)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.203125" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
