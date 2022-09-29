@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="5dp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:id="@+id/quantybarg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/namabarg"
+        android:padding="4dp"
+        android:text="ID Menu :"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Small"
+        android:textColor="#000000"
+        android:textSize="17dp" />
+    <TextView
+        android:id="@+id/namabarg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="4dp"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Small"
+        android:textColor="#000000"
+        android:text="Nama Barang :" />
+    <TextView
+        android:id="@+id/totalharga"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="5dp"
+        android:layout_below="@id/namabarg"
+        android:layout_toRightOf="@id/hargabarang"
+        android:gravity="end"
+        android:padding="4dp"
+        android:text=""
+        android:textSize="17dp"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Small"
+        android:textColor="#000000" />
+    <TextView
+        android:id="@+id/hargabarang"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/kali"
+        android:layout_marginLeft="5dp"
+        android:layout_below="@id/namabarg"
+        android:gravity="end"
+        android:padding="4dp"
+        android:textSize="17dp"
+        android:text="50000"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Small"
+        android:textColor="#000000" />
+    <TextView
+        android:id="@+id/kali"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="X"
+        android:layout_below="@id/namabarg"
+        android:padding="4dp"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Small"
+        android:textColor="#000000"
+        android:textSize="17dp"
+        android:layout_toRightOf="@id/quantybarg"/>
+</RelativeLayout>

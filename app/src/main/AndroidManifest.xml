@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.arindo.waserbanura">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="true" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:requestLegacyExternalStorage="true"
+        android:theme="@style/Theme.WaserbaNura"
+        android:usesCleartextTraffic="true"
+        tools:targetApi="n">
+        <activity android:name=".ActivityKetBarang"/>
+        <activity android:name=".ActivityKirimWa"/>
+        <activity android:name=".ActivityTentang"/>
+        <activity android:name=".ActivityGantiPassword" />
+        <activity android:name=".ActivityStatus" />
+        <activity android:name=".ActivitySetor" />
+        <activity android:name=".ActivityLaporanRinci" />
+        <activity android:name=".ActivityLaporan" />
+        <activity android:name=".ActivityPembayaranBerhasil" />
+        <activity android:name=".KonfirmasiPembayaranActivity" />
+        <activity android:name=".ActivityBelanja" />
+        <activity android:name=".ActivityOrder" />
+        <activity android:name=".ActivityKeranjang" />
+        <activity android:name=".ActivityDelete" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".DeviceActivity" />
+        <activity android:name=".LoginActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="${applicationId}.provider"
+            android:exported="false"
+            android:grantUriPermissions="true"
+            tools:replace="android:authorities">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                tools:replace="android:resource"
+                android:resource="@xml/file_path"/>
+        </provider>
+    </application>
+
+</manifest>
+

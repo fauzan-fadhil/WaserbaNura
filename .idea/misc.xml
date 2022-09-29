@@ -3,18 +3,34 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/San The Developer/Android Arindo/WaserbaNura/app/src/main/res/drawable/bg_overlay.xml" value="0.2" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/WaserbaNura/app/src/main/res/drawable/bg_rounded_rect.xml" value="0.2" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/WaserbaNura/app/src/main/res/drawable/bgrbutton.xml" value="0.2" />
         <entry key="..\:/Users/San The Developer/Android Arindo/WaserbaNura/app/src/main/res/drawable/edit_text_style.xml" value="0.18703703703703703" />
         <entry key="..\:/Users/San The Developer/Android Arindo/WaserbaNura/app/src/main/res/drawable/edit_text_style_dua.xml" value="0.18703703703703703" />
         <entry key="..\:/Users/San The Developer/Android Arindo/WaserbaNura/app/src/main/res/layout/activity_belanja.xml" value="0.21" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/WaserbaNura/app/src/main/res/layout/activity_delete.xml" value="0.1527777777777778" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/WaserbaNura/app/src/main/res/layout/activity_device.xml" value="0.13518518518518519" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/WaserbaNura/app/src/main/res/layout/activity_ganti_password.xml" value="0.2" />
         <entry key="..\:/Users/San The Developer/Android Arindo/WaserbaNura/app/src/main/res/layout/activity_keranjang.xml" value="0.14166666666666666" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/WaserbaNura/app/src/main/res/layout/activity_ketbrng.xml" value="0.16018518518518518" />
         <entry key="..\:/Users/San The Developer/Android Arindo/WaserbaNura/app/src/main/res/layout/activity_konfirmasi_pembayaran.xml" value="0.14166666666666666" />
         <entry key="..\:/Users/San The Developer/Android Arindo/WaserbaNura/app/src/main/res/layout/activity_laporan.xml" value="0.14166666666666666" />
         <entry key="..\:/Users/San The Developer/Android Arindo/WaserbaNura/app/src/main/res/layout/activity_laporan_rinci.xml" value="0.14166666666666666" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/WaserbaNura/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/WaserbaNura/app/src/main/res/layout/activity_main.xml" value="0.1685185185185185" />
         <entry key="..\:/Users/San The Developer/Android Arindo/WaserbaNura/app/src/main/res/layout/activity_order.xml" value="0.14166666666666666" />
-        <entry key="..\:/Users/San The Developer/Android Arindo/WaserbaNura/app/src/main/res/layout/activity_pembayaran_berhasil.xml" value="0.14166666666666666" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/WaserbaNura/app/src/main/res/layout/activity_pembayaran_berhasil.xml" value="0.21" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/WaserbaNura/app/src/main/res/layout/activity_setor.xml" value="0.20102564102564102" />
         <entry key="..\:/Users/San The Developer/Android Arindo/WaserbaNura/app/src/main/res/layout/activity_status.xml" value="0.14166666666666666" />
         <entry key="..\:/Users/San The Developer/Android Arindo/WaserbaNura/app/src/main/res/layout/activity_tentang.xml" value="0.14166666666666666" />
-        <entry key="..\:/Users/San The Developer/Android Arindo/WaserbaNura/app/src/main/res/layout/fragment_beranda.xml" value="0.14444444444444443" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/WaserbaNura/app/src/main/res/layout/fragment_beranda.xml" value="0.16" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/WaserbaNura/app/src/main/res/layout/list_belanja.xml" value="0.2" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/WaserbaNura/app/src/main/res/layout/list_checkout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/WaserbaNura/app/src/main/res/layout/list_keranjang.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/WaserbaNura/app/src/main/res/layout/list_laporan.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/WaserbaNura/app/src/main/res/layout/list_status.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/WaserbaNura/app/src/main/res/layout/list_stok.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/San The Developer/Android Arindo/WaserbaNura/app/src/main/res/layout/toolbar_main.xml" value="0.14444444444444443" />
       </map>
     </option>
